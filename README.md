@@ -1,8 +1,7 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 ### Hi 👋
-Graduated in Information Systems. Developer Fullstack. Always responsible for developing systems since survey requirements, up to the deployment of the system in a local or cloud environment.Experience with modeling and developing database queries
-SQL Server, Postgress, Mysql, support of legacy systems and development of new features without or with APIs integrations.the 3rd. Extensive experience as an analyst and developer at all stages of a system.
+Profissional experiente e versátil com foco em desenvolvimento full Stack, análise de dados e práticas DevOps. Especializado em metodologias ágeis, segurança e escalabilidade, com forte compreensão dos princípios SOLID. Habilidades de liderança, comunicação e trabalho em equipe, sempre orientado para resultados. Possui habilidades de liderança, comunicação e trabalho em equipe, aliadas a um senso de pragmatismo e orientação para resultados
 ### 👨‍💻 Languages and Tools
 
 
