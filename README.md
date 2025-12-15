@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas tendênc
 - 🤝 **Colaboração e compartilhamento de conhecimento**
 
 ## 📬 Conecte-se Comigo
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/mayconlemostech)
+- LinkedIn: [Clique aqui](https://www.linkedin.com/in/mayconlemostech)
 
 
 Estou sempre aberto a discussões sobre tecnologia e inovação.
