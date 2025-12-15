@@ -1,9 +1,9 @@
-# Maycon - Desenvolvedor de Software 👨‍💻
+# Maycon - Senior Software Engineer 👨‍💻
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas tendências e aprimorando minhas habilidades para criar soluções eficientes e escaláveis. Minha abordagem se baseia em código limpo, boas práticas de arquitetura e otimização de desempenho.
 
 ## 💡 Habilidades e Tecnologias
-- 🔹 **Linguagens:** NodeJS, C#, .NET (Core e 8)
+- 🔹 **Linguagens:** NodeJS (React, angular, Nextjs, NestJS) , C# (.NET (Core e 8))
 - 🏗 **Arquitetura:** Clean Architecture, Design Patterns
 - 🗄 **Banco de Dados:** SQLite, MongoDB, SQL Serve, Mysql, Postgress, RDS
 - 🌍 **Desenvolvimento:** APIs REST, Windows Forms
